@@ -1,0 +1,28 @@
+{
+  "name": "noderest-wedj",
+  "version": "1.0.0",
+  "description": "Repository for Back-End",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satrirattt/NODEREST-WEDJ.git"
+  },
+  "keywords": [],
+  "author": "Satrirat Seewan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satrirattt/NODEREST-WEDJ/issues"
+  },
+  "homepage": "https://github.com/satrirattt/NODEREST-WEDJ#readme",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
